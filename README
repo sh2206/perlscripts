@@ -1,0 +1,1 @@
+A very simple Perl script that collects performance data from the vmstat command, and logs it to a csv file. Takes the command line arguments 'interval' and 'total duration,' with defaults of 10 and 60 seconds. Kills the vmstat process once the duration has run its course.
